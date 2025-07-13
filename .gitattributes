@@ -1,0 +1,6 @@
+*.sql linguist-language=SQL
+*.py linguist-language=Python
+*.csv linguist-documentation
+*.xlsx linguist-documentation
+*.pptx linguist-documentation
+*.pdf linguist-documentation
