@@ -1,9 +1,4 @@
 # Yelp_User_and_Business_Insights
-Normalized relational database and SQL analysis on 1M+ Yelp user and business records to uncover engagement and performance trends using data warehousing principles.
-
-
-# Yelp User & Business Insights
-
 This project analyzes over 1 million Yelp user and business records to uncover trends in engagement, reviews, and performance. Using SQL and data warehousing principles, the project builds a normalized relational database and performs in-depth analysis to answer business-relevant questions.
 
 ## Project Overview
